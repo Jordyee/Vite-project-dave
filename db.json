@@ -1,4 +1,9 @@
 {
+  "users": [
+    { "id": "1", "name": "John Doe", "image": "pic1.jpg" },
+    { "id": "2", "name": "Jane Doe", "image": "pic2.jpg" },
+    { "id": "3", "name": "Julio Doe" }
+  ],
   "posts": [
     { "id": "1", "title": "a title", "views": 100 },
     { "id": "2", "title": "another title", "views": 200 }
